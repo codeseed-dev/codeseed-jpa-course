@@ -1,0 +1,33 @@
+# Build
+target/
+build/
+*.class
+*.jar
+*.log
+
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Editors
+.vscode/
+.nb-gradle/
+nbbuild/
+nbdist/
+dist/
+nbproject/private/
+
+# OS
+.DS_Store
+
+# Env
+.env
