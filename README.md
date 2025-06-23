@@ -1,15 +1,18 @@
-# 🚀 Codeseed JPA Course — Starter Project
+# 🧱 Codeseed JPA Course — Starter Branch
 
-This is the base project used in the [Codeseed.dev](https://codeseed.dev) JPA course.
+This is the starting point for students of the Task Tracker API course.
 
-## 🧱 Included
+## 🧩 Technologies
 
-- Spring Boot 3 
-- Maven Wrapper
-- PostgreSQL Docker config
-- Clean structure for building a REST API step by step
+- Java 17+
+- Spring Boot 3
+- PostgreSQL (via Docker)
+- Maven
 
-## 🐳 To start PostgreSQL:
+## ▶️ Getting Started
+
+1. Clone the project
+2. Run PostgreSQL
 
 ```bash
 docker-compose up -d
